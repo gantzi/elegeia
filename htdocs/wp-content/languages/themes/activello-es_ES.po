@@ -1,0 +1,987 @@
+# Translation of Themes - Activello in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Activello package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 14:20:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Activello\n"
+
+#. Description of the plugin/theme
+msgid "Activello is a clean and minimal WordPress blog theme with premium look and feel well suited for food, fashion, travel, lifestyle, sports and any other awesome blogs. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This awesome blog theme is also SEO friendly helping you to achieve the highest positions on Google. Activello is the only WordPress blog theme you will ever need."
+msgstr ""
+"Activello es un tema para blogs de WordPress limpio y minimalista con aspecto Premium muy adecuado para hablar de comida, moda, viajes, estilo de vida, deportes, y cualquier otro tipo de blog impresionante. Este tema cuenta con integración con WooCommerce, lo que permite crear una tienda online junto a tu blog.\n"
+"Este tema tiene muchísimas opciones de configuración que están disponibles en el personalizador de WordPress.\n"
+"El tema está también preparado para su traducción a varios idiomas.\n"
+"Este increíble tema para blogs es también amigo del SEO, ayudándote a conseguir las posiciones más altas en Google. \n"
+"Activello es el único tema para blogs de WordPress que necesitarás. "
+
+#. Theme Name of the plugin/theme
+msgid "Activello"
+msgstr "Activello"
+
+#: inc/tgmpa/tgm-plugin-activation.php:95
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %s"
+
+#: inc/tgmpa/tgm-plugin-activation.php:90
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo siento pero no tienes los permisos necesarios para actualizar el plugin %s. Ponte en contacto con el administrador de esta web para que te ayude."
+msgstr[1] "Lo siento pero no tienes los permisos necesarios para actualizar los plugins %s. Ponte en contacto con el administrador de esta web para que te ayude."
+
+#: inc/tgmpa/tgm-plugin-activation.php:89
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe ser actualizado a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+msgstr[1] "Los siguientes plugins deben ser actualizado a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:88
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo siento pero no tienes los permisos necesarios para activar el plugin %s. Ponte en contacto con el administrador de esta web para que te ayude."
+msgstr[1] "Lo siento pero no tienes los permisos necesarios para activar los plugins %s. Ponte en contacto con el administrador de esta web para que te ayude."
+
+#: inc/tgmpa/tgm-plugin-activation.php:87
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado no está activado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados no están activados: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:86
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario no está activado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios no están activados: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:85
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo siento pero no tienes los permisos necesarios para instalar el plugin %s. Ponte en contacto con el administrador de esta web para que te ayude."
+msgstr[1] "Lo siento pero no tienes los permisos necesarios para instalar los plugins %s. Ponte en contacto con el administrador de esta web para que te ayude."
+
+#: inc/tgmpa/tgm-plugin-activation.php:84
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:83
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "La instalación está empezando. Este proceso puede tardar un poco en algunos servidores, así que ten paciencia."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activado el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está empezando. Este proceso puede tardar un rato en algunos servidores, así que ten paciencia."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se ha producido un error mientras que se instalaba %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay ningún plugin disponible para ser activado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se ha seleccionado ningún plugin para actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay ningún plugin disponible para ser instalado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins disponibles para instalar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se ha seleccionado ningún plugin para actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se ha seleccionado ningún plugin para instalar. No se ha realizado ninguna acción. "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Sin plugins que instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Mínima versión necesaria:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> activación pendiente"
+msgstr[1] "<span class=\"count\">(%s)</span> activaciones pendientes"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> actualización pendiente"
+msgstr[1] "<span class=\"count\">(%s)</span> actualizaciones pendientes"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> instalación pendiente"
+msgstr[1] "<span class=\"count\">(%s)</span> instalaciones pendientes"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> en total"
+msgstr[1] "<span class=\"count\">(%s)</span> en total"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Debe actualizarse"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "La actualización necesaria no está disponible"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activos"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalados pero inactivos"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Empaquetado con el tema"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Origen externo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin consiste en más de un archivo, pero los archivos no están empaquetados en una carpeta."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete según las recomendaciones de WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contienen una carpeta con el slug deseado y no se ha podido renombrar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Tienes que actualizar este plugin para que sea compatible con el tema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de la web para pedirle ayuda."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin no activado. El tema necesita una versión posterior de %s. Actualiza el plugin, por favor."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin ha sido actualizado correctamente:"
+
+#: content-single.php:55 content.php:73
+msgid "No comments yet"
+msgstr "Sin comentarios aún"
+
+#: inc/customizer.php:213
+msgid "Support and Documentation"
+msgstr "Soporte y documentación"
+
+#: inc/customizer.php:356
+msgid "Activello Documentation"
+msgstr "Documentación de Activello"
+
+#: inc/customizer.php:357
+msgid "The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via"
+msgstr "La mejor forma de contactar con nosotros con <b>pregunstas sobre soporte</b> e <b>informes de errores</b> es a través del"
+
+#: inc/customizer.php:357
+msgid "Colorlib support forum"
+msgstr "foro de soporte de Colorlib"
+
+#: inc/customizer.php:358
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr "Si te gusta este tema, agracería cualquiera de lo siguiente:"
+
+#: inc/customizer.php:360
+msgid "Rate this Theme"
+msgstr "Valorar este tema"
+
+#: inc/customizer.php:361
+msgid "Like on Facebook"
+msgstr "Seguir en Facebook"
+
+#: inc/customizer.php:362
+msgid "Follow on Twitter"
+msgstr "Seguir en Twitter"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+#: inc/tgmpa/tgm-plugin-activation.php:79
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+#: inc/tgmpa/tgm-plugin-activation.php:80
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#: inc/tgmpa/tgm-plugin-activation.php:81
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+#: inc/tgmpa/tgm-plugin-activation.php:82
+msgid "Something went wrong with the plugin API."
+msgstr "Se ha producido un error del API de plugins."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+#: inc/tgmpa/tgm-plugin-activation.php:91
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+#: inc/tgmpa/tgm-plugin-activation.php:92
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+#: inc/tgmpa/tgm-plugin-activation.php:93
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+#: inc/tgmpa/tgm-plugin-activation.php:94
+msgid "Plugin activated successfully."
+msgstr "El plugin ha sido activado correctamente."
+
+#. Template Name of the plugin/theme
+msgid "Full-width(no sidebar)"
+msgstr "Ancho completo (sin barra lateral)"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:14
+msgid "Search"
+msgstr "Búsquedas"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Buscar&hellip;"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de buscar: %s"
+
+#: inc/widgets/widget-social.php:17 inc/widgets/widget-social.php:46
+msgid "Follow us"
+msgstr "Síguenos"
+
+#: inc/widgets/widget-social.php:12
+msgid "Activello Social Widget"
+msgstr "Widget social de Activello"
+
+#: inc/widgets/widget-social.php:11
+msgid "Activello theme widget to display social media icons"
+msgstr "Widget del tema Activello para mostrar iconos de social media"
+
+#: inc/widgets/widget-recent-posts.php:104
+msgid "Limit Posts Number"
+msgstr "Limitar el número de entradas"
+
+#: inc/widgets/widget-recent-posts.php:96
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/widget-recent-posts.php:17
+#: inc/widgets/widget-recent-posts.php:91
+msgid "recent Posts"
+msgstr "entradas recientes"
+
+#: inc/widgets/widget-recent-posts.php:12
+msgid "Activello Recent Posts Widget"
+msgstr "Widget de entradas recientes de Activello"
+
+#: inc/widgets/widget-recent-posts.php:11
+msgid "Activello recent posts widget with thumbnails"
+msgstr "Widget de Activello de últimas entradas con imagen"
+
+#: inc/widgets/widget-categories.php:99
+msgid "Enable Posts Count"
+msgstr "Habilitar el recuento de entradas"
+
+#: inc/widgets/widget-categories.php:86
+msgid "Limit Categories "
+msgstr "Limitar categorías"
+
+#: inc/widgets/widget-categories.php:78 inc/widgets/widget-social.php:49
+msgid "Title "
+msgstr "Título"
+
+#: inc/widgets/widget-categories.php:17 inc/widgets/widget-categories.php:73
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/widgets/widget-categories.php:12
+msgid "Activello Categories"
+msgstr "Categorías de Activello"
+
+#: inc/widgets/widget-categories.php:11
+msgid "Activello widget to display categories"
+msgstr "Widget de Activello para mostrar categorías"
+
+#: inc/template-tags.php:86
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%title <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-chevron-left\"></i> %title"
+msgstr "<i class=\"fa fa-chevron-left\"></i> %title"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Entradas siguientes"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Entradas anteriores"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navegación de posts"
+
+#: inc/socialnav.php:13
+msgctxt "nav menu location"
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: inc/navwalker.php:196
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/metaboxes.php:58
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/metaboxes.php:28
+msgid "Select layout for this specific Product only"
+msgstr "Seleccionar configuración solamente para ese producto específico"
+
+#: inc/metaboxes.php:21
+msgid "Select layout for this specific Post only"
+msgstr "Selecciona la estructura sólo para esta entrada"
+
+#: inc/metaboxes.php:16
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Selecciona layout solo para esta página específica. (N.B.: esta selección solo se activa si el modelo de página está definido como Default  o modelos de Blog)"
+
+#: inc/extras.php:273
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación."
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:266
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/extras.php:260
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">dice:</span>"
+
+#: inc/extras.php:172
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Tema por %1$s Funciona con %2$s"
+
+#: inc/extras.php:75
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/extras.php:72
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: inc/extras.php:71
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "Esta publicación está protegida por contraseña. Escribe tu contraseña para verla:"
+
+#: inc/extras.php:54
+msgid "Untitled"
+msgstr "Sin título"
+
+#: inc/customizer.php:205
+msgid "Additional CSS"
+msgstr "CSS adicional"
+
+#: inc/customizer.php:204
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/customizer.php:195
+msgid "Other"
+msgstr "Otros"
+
+#: inc/customizer.php:177
+msgid "Footer"
+msgstr "Pie "
+
+#: inc/customizer.php:170
+msgid "Social Icon:hover Color"
+msgstr "Color de icono social con el puntero encima"
+
+#: inc/customizer.php:160
+msgid "Social icon color"
+msgstr "Color de icono social"
+
+#: inc/customizer.php:151 inc/customizer.php:161 inc/customizer.php:171
+msgid "Default used if no color is selected"
+msgstr "Se usará el color por defecto si no se elige ninguno"
+
+#: inc/customizer.php:150
+msgid "Accent Color"
+msgstr "Color de acento"
+
+#: inc/customizer.php:141
+msgid "Choose between different layout options to be used as default"
+msgstr "Elige entre las diferentes opciones de estructura para usarla por defecto"
+
+#: inc/customizer.php:138
+msgid "Website Layout Options"
+msgstr "Opciones de estructura del sitio"
+
+#: inc/customizer.php:127
+msgid "Layout options"
+msgstr "Opciones de estructura"
+
+#: inc/customizer.php:94
+msgid "Slider Option"
+msgstr "Opciones de Slider"
+
+#: inc/customizer.php:85
+msgid "Display Comments on Static Pages?"
+msgstr "¿Mostrar comentarios en páginas estáticas?"
+
+#: inc/customizer.php:73
+msgid "Show post excerpts?"
+msgstr "¿Mostrar los extractos de las entradas?"
+
+#: inc/customizer.php:60
+msgid "Content Options"
+msgstr "Opciones de contenido"
+
+#: inc/customizer.php:54
+msgid "Panel to update activello theme options"
+msgstr "Panel para actualizar las opciones del tema Activello"
+
+#: inc/customizer.php:53
+msgid "Activello Options"
+msgstr "Opciones de Activello"
+
+#: inc/customizer.php:44
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customizer.php:30
+msgid "Logo"
+msgstr "Logotipo"
+
+#: image.php:23
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Soguiente <i class=\"fa fa-chevron-right\"></i>"
+
+#: image.php:22
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Anterior"
+
+#: header.php:40
+msgid "Toggle navigation"
+msgstr "Alternar navegación"
+
+#: functions.php:273 searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:236
+msgid "Title + Tagline"
+msgstr "Título + Descripción del sitio"
+
+#: functions.php:235
+msgid "Title Only"
+msgstr "Sólo Título"
+
+#: functions.php:234
+msgid "Logo + Tagline"
+msgstr "Logotipo + Descripción del sitio"
+
+#: functions.php:233
+msgid "Logo Only"
+msgstr "Sólo logotipo"
+
+#: functions.php:231
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: functions.php:231
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: functions.php:231
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: functions.php:231
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: content.php:73
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:73
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content-single.php:55
+msgid "Comments (%)"
+msgstr "Comentarios (%)"
+
+#: content-single.php:55
+msgid "Comment (1)"
+msgstr "Comentario (1)"
+
+#. translators: %s: Name of current post
+#: content-single.php:21 content.php:22
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estas buscando. Tal vez, continuar buscando pueda ayudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no se encontró ninguna coincidencia con sus términos de búsqueda. Por favor, pruebe de nuevo con otras palabras clave."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primer post? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: content-grid.php:37 content-page.php:21 content-single.php:43 content.php:56
+#: image.php:79
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-grid.php:28 content.php:41 content.php:67 inc/extras.php:151
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: content-grid.php:16 content-page.php:26 inc/extras.php:266
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:96
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:94
+msgid "Post Reply"
+msgstr "Publicar una respuesta"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Sitio web"
+
+#: comments.php:81
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:77
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Últimos comentarios &raquo;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] "1 comentario"
+msgstr[1] "%1$s comentarios"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estados"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Vínculos"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imagenes"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Año fiscal"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:58
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: 404.php:53 archive.php:66 sidebar.php:31
+msgid "Archives"
+msgstr "Archivo"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prueba mirando en los archivos de mes. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Categorías más utilizadas"
+
+#: 404.php:25
+msgid "Recent Posts"
+msgstr "Artículos recientes"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Quieres probar uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Uups! Esta página no puede ser encontrada."
+
+#. Author URI of the plugin/theme
+msgid "http://colorlib.com"
+msgstr "http://colorlib.com"
+
+#. Author of the plugin/theme
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#. Theme URI of the plugin/theme
+msgid "https://colorlib.com/wp/themes/activello/"
+msgstr "https://colorlib.com/wp/themes/activello/"

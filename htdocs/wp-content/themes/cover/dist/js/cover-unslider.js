@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery(".slider-container").unslider({infinite:!0,autoplay:!1,animateHeight:!0,arrows:{prev:'<a class="slider-arrow prev"><i class="fa fa-angle-left"></i></a>',next:'<a class="slider-arrow next"><i class="fa fa-angle-right"></i></a>'},keys:!1})});
